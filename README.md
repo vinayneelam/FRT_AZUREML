@@ -1,5 +1,4 @@
 # FRT_AZUREML
-The project demo link is https://replit.com/@vn02/API-AzureML#main.py
 
 First in my Microsoft Azure Portal i have created a machine learning studio.
 
